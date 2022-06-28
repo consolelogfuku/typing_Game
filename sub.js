@@ -1,5 +1,5 @@
 export const words = [
-  "console.log",
+  "text-aline: center;",
   "green",
   "blur",
   "pink",
